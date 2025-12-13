@@ -5,6 +5,8 @@ A responsive shoe brand landing website built using Tailwind CSS, focusing on cl
 - Flexbox and Grid-based section layouts
 - Reusable UI components (cards, buttons, navigation)
 - Optimized for desktop, tablet, and mobile screens - Deployed on Netlify
+## 🚀 Live Demo
+https://shoecompany-by-adithya.netlify.app/
 ## 🛠️ Tech Stack
 - HTML5
 - Tailwind CSS
