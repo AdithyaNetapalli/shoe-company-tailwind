@@ -3,7 +3,7 @@ A responsive shoe brand landing website built using Tailwind CSS, focusing on cl
 ## ✨ Project Highlights
 - Mobile-first responsive layout using Tailwind utility classes.
 - Flexbox and Grid-based section layouts.
-- Reusable UI components (cards, buttons, navigation)
+- Reusable UI components (cards, buttons, navigation).
 - Optimized for desktop, tablet, and mobile screens.
 - Deployed on Netlify.
 ## 🚀 Live Demo
