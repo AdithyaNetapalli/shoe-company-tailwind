@@ -20,5 +20,4 @@ https://shoecompany-by-adithya.netlify.app/
 - tailwind.config.js – Tailwind configuration
 - package.json – Project dependencies = images/ – Image assets node_modules is ignored using .gitignore.
 
-⭐ If you like this project, feel free to star the repository.
 
